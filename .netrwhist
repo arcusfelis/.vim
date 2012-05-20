@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/home/user/xapian/xapian-docsprint'
+let g:netrw_dirhist_2='/home/user/erlang/memento/log'
+let g:netrw_dirhist_3='/home/user/erlang/memento/src'
+let g:netrw_dirhist_4='/home/user/erlang/memento_core'
+let g:netrw_dirhist_5='/home/user/erlang/xapian/c_src'
